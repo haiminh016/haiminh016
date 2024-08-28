@@ -1,6 +1,6 @@
 <img src="banner.gif">
 <!-- <h2 align="center">
-    👋 Hi, I’m Đăng
+    👋 Hi, I’m Ben
 </h2> 
 <h2 align="left">🛠️ Technologies Stack:</h2>
 <p align="left">
